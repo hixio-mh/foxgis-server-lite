@@ -37,7 +37,7 @@
     "consolidate": "^0.15.1",
     "cors": "^2.8.1",
     "ejs": "^3.0.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "morgan": "^1.8.2"
   },
   "devDependencies": {
